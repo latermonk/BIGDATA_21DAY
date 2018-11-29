@@ -1,28 +1,42 @@
 # BIGDATA_21DAY
 
 
-重要通知：
+Hello!欢迎加入21天晋级大数据实战营学习中！今天是学习首日，大家加油哦！
 
-Dear DevClouder：
+常见活动问题请阅读：[https://bbs.huaweicloud.com/forum/thread-12838-1-1.html](https://bbs.huaweicloud.com/forum/thread-12838-1-1.html)。无对应解答再提问。
 
-感谢您参与华为云DevClouder&云容器服务联合推出的——【21天转型容器实战营】12月4日即将正式开课！
+今日答疑专家名单：
 
-为保证您的学习体验，我们将在11月30日（周五）下午4点起，在社群内进行活动流程培训，包括如何查看课程、如何打卡，如何领取代金券等等，请您注意关注！
+雨化微尘
 
-另外，本期课程的华为云学院以及打卡程序已经设置完成，请您尽快关注，做好课程提醒！感谢！
+奇（微信号：lj879933274）
 
-【打卡程序链接】
+Su（微信号：jas_0nleo）
 
-HYPERLINK "[https://sun.sharedaka.com/v2/habit/share_h5/visit?habitId=1569266&openId=ochvq0ImvAY-hi-iFk22uUhT3yTk&code=b3e264&byUserId=ochvq0ImvAY-hi-iFk22uUhT3yTk](https://sun.sharedaka.com/v2/habit/share_h5/visit?habitId=1569266&openId=ochvq0ImvAY-hi-iFk22uUhT3yTk&code=b3e264&byUserId=ochvq0ImvAY-hi-iFk22uUhT3yTk)"[https://sun.sharedaka.com/v2/habit/share_h5/visit?habitId=1569266&openId=ochvq0ImvAY-hi-iFk22uUhT3yTk&code=b3e264&byUserId=ochvq0ImvAY-hi-iFk22uUhT3yTk](https://sun.sharedaka.com/v2/habit/share_h5/visit?habitId=1569266&openId=ochvq0ImvAY-hi-iFk22uUhT3yTk&code=b3e264&byUserId=ochvq0ImvAY-hi-iFk22uUhT3yTk) 
+starqi（微信号：zhqi-ustc）
 
-打卡程序不用分享到群里哈，自己关注即可～
+本轮代金券共计1000元，用于本次课程学习资源的购买，限制使用产品和时间，请大家不要购买其他产品，并仔细依照每天操作文档指导操作，如因您误操作造成的代金券不足，我们将无法补发，还请大家切记！切记！
 
-【华为云学院】
+------------------
 
-[https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXI010+Self-paced/about](https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXI010+Self-paced/about)
+Day 1 从数据流入到产生价值-MapReduce服务
 
-ps：
+课程资料下载：
 
-1、打卡程序以及华为云学院的使用流程都将在明天的培训中和大家一一说明，请各位注意关注！fighting!
+[https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE016+Self-paced/courseware/4d2fd541d0cf4e61b3f642ad02cb7bf1/436e4c1fd58649ce9084e43e9956a2b5/](https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE016+Self-paced/courseware/4d2fd541d0cf4e61b3f642ad02cb7bf1/436e4c1fd58649ce9084e43e9956a2b5/)
 
-2、本期课程的代金券将于12月4日，收集完成当日打卡任务的用户名单后陆续发放，请周知！
+打卡任务：
+
+完成步骤 2.7.4，并将最终结果截图，需要截出以华为云用户名命名的表名字段。
+
+注意！！今日课程完成需要关闭资源！否则持续扣费！代金券减少影响后期学习！
+
+关闭资源：
+
+在打卡完成后，可选择终止资源停止扣费，
+
+1\. 关闭 MRS 资源。进入 MapReduce 服务，点击集群右边的“终止”按钮关闭 MRS 服务。
+
+2\. 关闭弹性公网 IP 资源。登录虚拟私有云地址，点击左侧“弹性公网 IP”页签，进入弹性公网 IP
+
+页面。点击操作中的“更多->释放”按钮进行释放弹性 IP 资源。
