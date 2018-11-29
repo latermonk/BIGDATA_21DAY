@@ -19,3 +19,7 @@
 2\. 关闭弹性公网 IP 资源。登录虚拟私有云地址，点击左侧“弹性公网 IP”页签，进入弹性公网 IP
 
 页面。点击操作中的“更多->释放”按钮进行释放弹性 IP 资源。
+
+
+
+![03_all-in-1](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY01/IMG/03_all-in-1.jpg)
