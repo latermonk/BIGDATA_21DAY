@@ -3,7 +3,10 @@
 
 Hello!欢迎加入21天晋级大数据实战营学习中！今天是学习首日，大家加油哦！
 
-常见活动问题请阅读：[https://bbs.huaweicloud.com/forum/thread-12838-1-1.html](https://bbs.huaweicloud.com/forum/thread-12838-1-1.html)。无对应解答再提问。
+常见活动问题请阅读：   
+[https://bbs.huaweicloud.com/forum/thread-12838-1-1.html](https://bbs.huaweicloud.com/forum/thread-12838-1-1.html)。    
+
+无对应解答再提问。
 
 今日答疑专家名单：
 
@@ -19,7 +22,7 @@ starqi（微信号：zhqi-ustc）
 
 ------------------
 
-Day 1 从数据流入到产生价值-MapReduce服务
+# Day 1 从数据流入到产生价值-MapReduce服务
 
 课程资料下载：
 
