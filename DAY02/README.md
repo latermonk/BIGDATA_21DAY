@@ -31,6 +31,15 @@ starqi（微信号：zhqi-ustc）
 
 集群和弹性IP资源。清理资源会统一发送消息通知。
 
+
+
+```
+select hive_weather.province as province,hive_weather.city as city,hive_weather.zone as zone,hive_weather.time as time,hive_weather.maxtemperature as maxtemperature,
+
+hive_weather.mintemperature as mintemperature,hive_weather.weather as weather,hive_weather.windpower as windpower from hive_weather
+```
+
+
 【注意】
 
 本次活动共3项附加题，今天是第1项。完成3项附加题其中之一，并将答题结果发送至[chuxia@huawei.com](mailto:chuxia@huawei.com)邮箱，优胜者将获得华为手环运动版！（提交答案时间：11.30-12.9，超时无效）
