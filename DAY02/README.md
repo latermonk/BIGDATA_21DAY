@@ -36,3 +36,7 @@ starqi（微信号：zhqi-ustc）
 本次活动共3项附加题，今天是第1项。完成3项附加题其中之一，并将答题结果发送至[chuxia@huawei.com](mailto:chuxia@huawei.com)邮箱，优胜者将获得华为手环运动版！（提交答案时间：11.30-12.9，超时无效）
 
 
+![02_deploy_02](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY02/PNG/02_deploy_02.png)
+
+
+![04_chart02.png](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY02/PNG/04_chart02.png)
