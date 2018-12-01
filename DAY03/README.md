@@ -31,3 +31,8 @@ NORTON（RainSenk）
 打卡任务：
 
 在云搜索服务的“集群管理”页面上，截图带有自己华为云用户名的集群列表，完成打卡。
+
+
+![](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY03/PNG/01_cluster.png)
+
+![](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY03/PNG/02_KANBANA.png)
