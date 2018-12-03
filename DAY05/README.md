@@ -28,3 +28,10 @@ https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE016+Self
 
 【视频课程】今日19:30有视频课程，开课前会提供课程链接，请积极参与。
 
+
+
+--
+
+![](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY05/PNG%20/new01.png)
+
+![](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY05/PNG%20/new02.png)
