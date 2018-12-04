@@ -27,4 +27,4 @@ https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE016+Self
 
 完成上述操作，参照章节2.3.6中截取“监控 > 通道监控”界面完成打卡，注意截图信息
 需要包含用户名信息（仅用于记录打卡）。
-
+![](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY06/PNG/DAY0601.jpg)
