@@ -33,3 +33,7 @@ Day 7 云上玩转KV存储
 3.2 任务二
 
 请在 HBase shell 上创建一个以华为云账号命名的表。
+
+![](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY07/PNG/DAY0701.png)
+
+![](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY07/PNG/DAY0702.png)
