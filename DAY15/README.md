@@ -37,4 +37,5 @@ DAY8、DAY12、DAY13、DAY14 -- 车联网应用资源
 [https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE016+Self-paced/courseware/348e8d77cdab4dc08d4046515d4c0ac1/e6d5317951aa495c8c08e1c99ce7afd3/](https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE016+Self-paced/courseware/348e8d77cdab4dc08d4046515d4c0ac1/e6d5317951aa495c8c08e1c99ce7afd3/)
 
 
-
+![](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY15/png/DAY1501.jpg)
+![](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY15/png/DAY1502.jpg)
