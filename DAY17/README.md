@@ -20,7 +20,7 @@ DAY17 轻松探索数据背后的价值 - 数据湖探索
 
 【今日答疑专家名单】
 
- 葳~~~（微信号：wxid_9tyz6rh56otu21）
+ 葳~~~（微信号：wxid_9tyz6rh56otu21）
 
 袁照荣（微信号：rggz2011）
 
@@ -29,3 +29,8 @@ DAY17 轻松探索数据背后的价值 - 数据湖探索
 【课程资料下载】
 
 [https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE016+Self-paced/courseware/348e8d77cdab4dc08d4046515d4c0ac1/9f07ac91dee3498f8e6add97e66aa2d0/](https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE016+Self-paced/courseware/348e8d77cdab4dc08d4046515d4c0ac1/9f07ac91dee3498f8e6add97e66aa2d0/)
+
+![](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY17/PNG/DAY1701.jpg)
+![](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY17/PNG/DAY1702.jpg)
+![](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY17/PNG/DAY1703.jpg)
+![](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY17/PNG/DAY1704.jpg)
