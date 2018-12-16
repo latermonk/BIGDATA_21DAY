@@ -22,7 +22,7 @@ DAY18 企业智能化数据经营分析实战
 
 【今日答疑专家名单】
 
- 葳~~~（微信号：wxid_9tyz6rh56otu21）
+ 葳~~~（微信号：wxid_9tyz6rh56otu21）
 
 袁照荣（微信号：rggz2011）
 
@@ -31,3 +31,6 @@ DAY18 企业智能化数据经营分析实战
 【课程资料下载】
 
 [https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE016+Self-paced/courseware/348e8d77cdab4dc08d4046515d4c0ac1/9f07ac91dee3498f8e6add97e66aa2d0/](https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE016+Self-paced/courseware/348e8d77cdab4dc08d4046515d4c0ac1/9f07ac91dee3498f8e6add97e66aa2d0/)
+
+![](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY18/PNG/DAY1801.jpg)
+![](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY18/PNG/DAY1802.jpg)
