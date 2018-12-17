@@ -24,7 +24,7 @@ DAY19 打破数据孤岛，异构数据源联合分析业务创新实践
 
 【今日答疑专家名单】
 
- 葳~~~（微信号：wxid_9tyz6rh56otu21）
+ 葳~~~（微信号：wxid_9tyz6rh56otu21）
 
 袁照荣（微信号：rggz2011）
 
@@ -39,3 +39,7 @@ DAY19 打破数据孤岛，异构数据源联合分析业务创新实践
 【视频课程】
 
 今晚19:30视频课程《打破数据孤岛，异构数据源联合分析业务创新实践》准时开播，请不要错过。
+
+![](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY19/PNG/DAY1901.jpg)
+![](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY19/PNG/DAY1902.jpg)
+![](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY19/PNG/DAY1903.jpg)
