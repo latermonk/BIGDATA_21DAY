@@ -33,3 +33,8 @@ DAY20 探索机器学习的奥义
 【课程资料下载】
 
 [https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE016+Self-paced/courseware/348e8d77cdab4dc08d4046515d4c0ac1/8f00b25e433146f7b09be03646ad02b7/](https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE016+Self-paced/courseware/348e8d77cdab4dc08d4046515d4c0ac1/8f00b25e433146f7b09be03646ad02b7/)
+
+
+![](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY20/PNG/DAY2001.png)
+
+![](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY20/PNG/DAY2002.png)
