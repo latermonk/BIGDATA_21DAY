@@ -39,3 +39,7 @@ DAY21 智能化设备预测性维护
 【课程资料下载】
 
 [https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE016+Self-paced/courseware/348e8d77cdab4dc08d4046515d4c0ac1/98360e7499a7420f9791ed903ebab3fc/](https://education.huaweicloud.com:8443/courses/course-v1:HuaweiX+CBUCNXE016+Self-paced/courseware/348e8d77cdab4dc08d4046515d4c0ac1/98360e7499a7420f9791ed903ebab3fc/)
+
+![](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY21/PNG/dAY2101.jpg)
+
+![](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY21/PNG/dAY2102.jpg)
