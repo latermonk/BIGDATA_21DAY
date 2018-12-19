@@ -42,4 +42,4 @@ DAY21 智能化设备预测性维护
 
 ![](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY21/PNG/dAY2101.jpg)
 
-![](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY21/PNG/dAY2102.jpg)
+![](https://raw.githubusercontent.com/latermonk/BIGDATA_21DAY/master/DAY21/PNG/dAY2102.png)
